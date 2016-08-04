@@ -1,0 +1,23 @@
+_repo: The-Story-of-a-Lamb-on-Wheels_5804
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hope, Laura Lee
+    gutenberg_agent_id: '367'
+    url: http://www.gutenberg.org/2009/agents/367
+    wikipedia: http://en.wikipedia.org/wiki/Laura_Lee_Hope
+description: ''
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5804'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Toys -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: The Story of a Lamb on Wheels
+url: http://www.gutenberg.org/ebooks/5804
