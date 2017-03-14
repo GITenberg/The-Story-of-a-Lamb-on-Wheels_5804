@@ -1,5 +1,8 @@
 _repo: The-Story-of-a-Lamb-on-Wheels_5804
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Hope, Laura Lee
@@ -7,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/367
     wikipedia: http://en.wikipedia.org/wiki/Laura_Lee_Hope
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5804#The-Story-of-a-Lamb-on-Wheels
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
